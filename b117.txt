@@ -1,1 +1,3 @@
 Almost all sequences contain NS01Y
+new stuff
+It also contains D614G, of course
